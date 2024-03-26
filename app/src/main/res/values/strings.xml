@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KhanhFood</string>
+    <string name="welcom_to_khanh_food">Welcom to Khanh Food</string>
+    <string name="Slogan_Khanh_Food">Shared and delightful, for an easy and enjoyable food ardering experience.</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">Dang Khanh</string>
+    <string name="description_image">Description image</string>
+    <string name="search_food">Search food..</string>
+    <string name="today_best_foods">Today\'s best Foods</string>
+    <string name="view_all">VIEW ALL</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_map_api_key">AIzaSyB0LN5rDvj5VyfeK56KFNkGRz1U_Ne_XVM</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/menu_search"-->
+<!--        android:title="Search"-->
+<!--        app:showAsAction="always"-->
+<!--        android:icon="@drawable/search_icon"-->
+<!--        app:actionViewClass="androidx.appcompat.widget.SearchView" />-->
+    <item
+    android:id="@+id/map_none"
+    android:title="None" />
+    <item
+        android:id="@+id/map_normal"
+        android:title="Normal" />
+    <item
+        android:id="@+id/map_satellite"
+        android:title="Satellite" />
+    <item
+        android:id="@+id/map_hybrid"
+        android:title="Hybrid" />
+    <item
+        android:id="@+id/map_terrain"
+        android:title="Terrain" />
+</menu>

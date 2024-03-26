@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757014153680",
+    "project_id": "khanhfoodapp",
+    "storage_bucket": "khanhfoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757014153680:android:24a6c9000cc845ee26d1d5",
+        "android_client_info": {
+          "package_name": "com.example.khanhfoodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFN9DDO285HAeG9Z4DdsPmOPzW9bqGYgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
